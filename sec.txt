@@ -4,4 +4,3 @@ second changing
 github branch crete
 sec.txt changes ok
 
-changing for merge commit
